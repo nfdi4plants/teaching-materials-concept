@@ -20,4 +20,3 @@ license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 <span style="color:#c21f3a">X  Code</span>  
 <span style="color:#c21f3a">X  Data analytical projects</span>  
 <span style="color:#c21f3a">X  Big (“raw”) data</span>  
-

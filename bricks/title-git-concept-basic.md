@@ -9,5 +9,4 @@ author_github: brilator
 license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 ---
 
-# Introduction to Git and git-based platforms
-
+# Git Basic Concept
