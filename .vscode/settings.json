@@ -1,0 +1,8 @@
+{
+  "markdown.marp.themes": [
+    "style/dataplant_marp-theme.css"
+  ],  
+  "markdown.marp.enableHtml": true,
+  "markdown.marp.exportType": "pdf",
+  "markdown.marp.pdf.noteAnnotations": false
+}
