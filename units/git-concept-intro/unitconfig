@@ -1,3 +1,0 @@
-### All files linked in this config, must be relative to the config.
-marpYaml=../../style/dataplant_marp.yaml
-marpTheme=../../style/dataplant_marp-theme.css

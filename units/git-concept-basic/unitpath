@@ -1,0 +1,17 @@
+---
+layout: slides
+title: "git intro basic"
+license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+duration_minutes: 5
+date: 2023-03-16
+status: draft
+---
+
+../../bricks/title-git-concept-basic.md
+../../bricks/cloud-services.md
+../../bricks/git-and-git-platforms.md
+../../bricks/git-why.md
+../../bricks/git-summary.md
+../../bricks/GitHub-GitLab.md
+../../bricks/team-projects.md
+../../bricks/cloud-vs-git.md
