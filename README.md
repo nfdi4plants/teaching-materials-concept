@@ -10,7 +10,7 @@ The repository provided [here](https://github.com/nfdi4plants/teaching-materials
 
 A [teaching materials section](https://github.com/nfdi4plants/nfdi4plants.knowledgebase/tree/main/src/docs/teaching-materials) based on this concept has already been integrated into the [DataPLANT Knowledge Base](https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html) [repsitory](https://github.com/nfdi4plants/nfdi4plants.knowledgebase). 
 
-The concept in [this repository](https://github.com/nfdi4plants/teaching-materials-concept) has been summarized as a contribution to [NFDI CoRDI](https://www.nfdi.de/cordi-2023/?lang=en).
+<!-- The concept in [this repository](https://github.com/nfdi4plants/teaching-materials-concept) has been summarized as a contribution to [NFDI CoRDI](https://www.nfdi.de/cordi-2023/?lang=en). -->
 
 <br/>
 
