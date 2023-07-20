@@ -1,4 +1,5 @@
 ---
+# from style yaml - begin
 marp: true
 theme: dataplant_marp-theme
 paginate: true
@@ -35,18 +36,27 @@ style: |
       padding-left: 20px;
       opacity: 0.5;
   }
+# from style yaml - end
+author: ['Dominik Brilhaus']
+author_orcid: ['https://orcid.org/0000-0001-9021-3197']
+author_github: ['brilator']
+license: ['[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)']
+title: ['git concept basic']
+duration_minutes: ['5']
+date: ['2023-03-16']
+teachingmode: ['inhale-listen']
+status: ['ready']
+headingDivider: ['1']
+learningoutcomes: ['version control', 'concept of git']
 ---
-<!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/title-git-concept-basic.md -->
-<!-- ################# -->
-
+<!-- headingDivider: 1 -->
 
 # Git Basic Concept
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/cloud-services.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/title-git-concept-basic.md -->
 <!-- ################# -->
 
 
@@ -62,9 +72,10 @@ style: |
 <span style="color:#c21f3a">X  Data analytical projects</span>  
 <span style="color:#c21f3a">X  Big (“raw”) data</span>  
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-and-git-platforms.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/cloud-services.md -->
 <!-- ################# -->
 
 
@@ -81,9 +92,10 @@ style: |
 <span style="color:#F9CD69">∼ Big (“raw”) data</span>
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-why.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/git-and-git-platforms.md -->
 <!-- ################# -->
 
 
@@ -94,9 +106,10 @@ style: |
 - Reuse scripts, analyses, pipelines
 - Reproduce results
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-summary.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/git-why.md -->
 <!-- ################# -->
 
 
@@ -111,9 +124,10 @@ style: |
   - **Why** was it changed?
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/GitHub-GitLab.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/git-summary.md -->
 <!-- ################# -->
 
 
@@ -127,9 +141,10 @@ style: |
 - Time machine to go back to older versions
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/team-projects.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/GitHub-GitLab.md -->
 <!-- ################# -->
 
 
@@ -142,12 +157,20 @@ Simplifies concurrent work & merging changes
 - They can upload their changes and merge them with the main project
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/cloud-vs-git.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/team-projects.md -->
 <!-- ################# -->
 
 
 # Cloud vs. Git
 
 ![w:1000](../../images/git_cloud_comparison.png)
+
+
+<!-- ################# -->
+<!-- Source to slide(s) above -->
+<!-- bricks/cloud-vs-git.md -->
+<!-- ################# -->
+

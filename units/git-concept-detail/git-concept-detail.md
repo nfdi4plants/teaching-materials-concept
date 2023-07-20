@@ -1,4 +1,5 @@
 ---
+# from style yaml - begin
 marp: true
 theme: dataplant_marp-theme
 paginate: true
@@ -35,19 +36,26 @@ style: |
       padding-left: 20px;
       opacity: 0.5;
   }
+# from style yaml - end
+author: ['Dominik Brilhaus']
+author_orcid: ['https://orcid.org/0000-0001-9021-3197']
+author_github: ['brilator']
+license: ['[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)']
+title: ['git concept detail']
+duration_minutes: ['5']
+date: ['2023-03-16']
+status: ['draft']
+headingDivider: ['1']
 ---
-<!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/title-git-concept-detail.md -->
-<!-- ################# -->
-
+<!-- headingDivider: 1 -->
 
 # Concept of Git and git-based platforms
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/cloud-services.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/title-git-concept-detail.md -->
 <!-- ################# -->
 
 
@@ -63,9 +71,10 @@ style: |
 <span style="color:#c21f3a">X  Data analytical projects</span>  
 <span style="color:#c21f3a">X  Big (“raw”) data</span>  
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-and-git-platforms.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/cloud-services.md -->
 <!-- ################# -->
 
 
@@ -82,9 +91,10 @@ style: |
 <span style="color:#F9CD69">∼ Big (“raw”) data</span>
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-why.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/git-and-git-platforms.md -->
 <!-- ################# -->
 
 
@@ -95,9 +105,10 @@ style: |
 - Reuse scripts, analyses, pipelines
 - Reproduce results
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/example-project.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/git-why.md -->
 <!-- ################# -->
 
 
@@ -122,9 +133,10 @@ style: |
 ![w:900](../../images/git_RNASeq_Example_img5.png)
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-snapshots.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/example-project.md -->
 <!-- ################# -->
 
 
@@ -138,9 +150,10 @@ style: |
 
 ![w:900](../../images/git_RNASeq_Example_img7.png)
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/example-project-moreData.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/git-snapshots.md -->
 <!-- ################# -->
 
 
@@ -157,9 +170,10 @@ style: |
 ![w:900](../../images/git_RNASeq_Example_img10.png)
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-track-changes.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/example-project-moreData.md -->
 <!-- ################# -->
 
 
@@ -168,9 +182,10 @@ style: |
 ![w:900](../../images/git_RNASeq_Example_img11.png)
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/example-project-break.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/git-track-changes.md -->
 <!-- ################# -->
 
 
@@ -179,9 +194,10 @@ style: |
 ![w:900](../../images/git_RNASeq_Example_img12.png)
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-revert.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/example-project-break.md -->
 <!-- ################# -->
 
 
@@ -189,9 +205,10 @@ style: |
 
 ![w:900](../../images/git_RNASeq_Example_img13.png)
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/example-project-reuse.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/git-revert.md -->
 <!-- ################# -->
 
 
@@ -204,9 +221,10 @@ style: |
 ![w:900](../../images/git_RNASeq_Example_img15.png)
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-reuse.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/example-project-reuse.md -->
 <!-- ################# -->
 
 
@@ -227,9 +245,10 @@ style: |
 ![w:900](../../images/git_RNASeq_ReuseCode_img4.png)
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-contribute.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/git-reuse.md -->
 <!-- ################# -->
 
 
@@ -238,9 +257,10 @@ style: |
 ![w:900](../../images/git_RNASeq_ReuseCode_img5.png)
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-summary.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/git-contribute.md -->
 <!-- ################# -->
 
 
@@ -255,9 +275,10 @@ style: |
   - **Why** was it changed?
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/GitHub-GitLab.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/git-summary.md -->
 <!-- ################# -->
 
 
@@ -271,9 +292,10 @@ style: |
 - Time machine to go back to older versions
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/team-projects.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/GitHub-GitLab.md -->
 <!-- ################# -->
 
 
@@ -286,12 +308,20 @@ Simplifies concurrent work & merging changes
 - They can upload their changes and merge them with the main project
 
 
+
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/cloud-vs-git.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/team-projects.md -->
 <!-- ################# -->
 
 
 # Cloud vs. Git
 
 ![w:1000](../../images/git_cloud_comparison.png)
+
+
+<!-- ################# -->
+<!-- Source to slide(s) above -->
+<!-- bricks/cloud-vs-git.md -->
+<!-- ################# -->
+
