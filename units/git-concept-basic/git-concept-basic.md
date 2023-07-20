@@ -1,52 +1,27 @@
 ---
+# Slide-related yaml
 marp: true
 theme: dataplant_marp-theme
 paginate: true
 headingDivider: 
   - 1
   - 2
-footer: '
-<a href="https://nfdi4plants.org">
-  <img id="footer-img1" src="../../images/DataPLANT_logo_square_bg_transparent.svg">
-</a>
-<a href="https://ceplas.eu">
-  <img id="footer-img2" src="../../images/CEPLAS_Icon.jpeg">
-</a>
-<a href="https://creativecommons.org/licenses/by/4.0/">
-  <img id="footer-img3" src="../../images/cc-by.svg">
-</a>'
-style: |
-  footer {
-    height: 30px;
-    padding: 10px;
-    bottom: 00px;
-  }
-  #footer-img1 {
-      height: 30px;
-      padding-left: 0px;
-  }
-  #footer-img2 {
-      height: 30px;
-      padding-left: 20px;
-      opacity: 0.5;
-  }
-  #footer-img3 {
-      height: 20px;
-      padding-left: 20px;
-      opacity: 0.5;
-  }
+footer: '<a href="https://nfdi4plants.org"> <img id="footer-img1" src="../../images/DataPLANT_logo_square_bg_transparent.svg"> </a> <a href="https://ceplas.eu"><img id="footer-img2" src="../../images/CEPLAS_Icon.jpeg"></a><a href="https://creativecommons.org/licenses/by/4.0/"><img id="footer-img3" src="../../images/cc-by.svg"></a>'
+style: 'footer {height: 30px; padding: 10px; bottom: 00px;} #footer-img1 {height: 30px; padding-left: 0px;} #footer-img2 {height: 30px; padding-left: 20px; opacity: 0.5;} #footer-img3 {height: 20px;padding-left: 20px;opacity: 0.5;}'
+# Training yaml
+layout: slides
+title: "git intro basic"
+license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+duration_minutes: 5
+date: 2023-03-16
+status: draft
 ---
-<!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/title-git-concept-basic.md -->
-<!-- ################# -->
-
 
 # Git Basic Concept
 
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/cloud-services.md -->
+<!-- Source to slide(s) -->
+<!-- ../../bricks/title-git-concept-basic.md -->
 <!-- ################# -->
 
 
@@ -63,8 +38,8 @@ style: |
 <span style="color:#c21f3a">X  Big (“raw”) data</span>  
 
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-and-git-platforms.md -->
+<!-- Source to slide(s) -->
+<!-- ../../bricks/cloud-services.md -->
 <!-- ################# -->
 
 
@@ -82,8 +57,8 @@ style: |
 
 
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-why.md -->
+<!-- Source to slide(s) -->
+<!-- ../../bricks/git-and-git-platforms.md -->
 <!-- ################# -->
 
 
@@ -95,8 +70,8 @@ style: |
 - Reproduce results
 
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/git-summary.md -->
+<!-- Source to slide(s) -->
+<!-- ../../bricks/git-why.md -->
 <!-- ################# -->
 
 
@@ -112,8 +87,8 @@ style: |
 
 
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/GitHub-GitLab.md -->
+<!-- Source to slide(s) -->
+<!-- ../../bricks/git-summary.md -->
 <!-- ################# -->
 
 
@@ -128,8 +103,8 @@ style: |
 
 
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/team-projects.md -->
+<!-- Source to slide(s) -->
+<!-- ../../bricks/GitHub-GitLab.md -->
 <!-- ################# -->
 
 
@@ -143,11 +118,17 @@ Simplifies concurrent work & merging changes
 
 
 <!-- ################# -->
-<!-- Source to following slide(s) -->
-<!-- ../../bricks/cloud-vs-git.md -->
+<!-- Source to slide(s) -->
+<!-- ../../bricks/team-projects.md -->
 <!-- ################# -->
 
 
 # Cloud vs. Git
 
 ![w:1000](../../images/git_cloud_comparison.png)
+
+<!-- ################# -->
+<!-- Source to slide(s) -->
+<!-- ../../bricks/cloud-vs-git.md -->
+<!-- ################# -->
+
