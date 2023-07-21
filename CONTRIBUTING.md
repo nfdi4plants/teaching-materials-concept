@@ -3,6 +3,7 @@
 On the one hand, this is an exemplary contribution guide from the development phase of a teaching materials repository in DataPLANT.
 On the other hand, it should be followed accordingly when contributing to this concept repo which show casts the concept as of March 2023.
 It also was one step to elaborate what is required in such a contribution guide and might be supportive for subsequent similar endeavours.
+
 ## Repository rules for collaborators
 
 ### Pull requests
