@@ -1,28 +1,28 @@
-﻿file,author,source,license
-cc-by.svg,,,
-CEPLAS_Icon.jpeg,,,
-DataPLANT_logo_square_bg_transparent.svg,,,
-DataSharing_Cloud_img6.png,,,
-DataSharing_git_img1.png,,,
-git_cloud_comparison.png,,,
-git_RNASeq_Example_img1.png,,,
-git_RNASeq_Example_img2.png,,,
-git_RNASeq_Example_img3.png,,,
-git_RNASeq_Example_img4.png,,,
-git_RNASeq_Example_img5.png,,,
-git_RNASeq_Example_img6.png,,,
-git_RNASeq_Example_img7.png,,,
-git_RNASeq_Example_img8.png,,,
-git_RNASeq_Example_img9.png,,,
-git_RNASeq_Example_img10.png,,,
-git_RNASeq_Example_img11.png,,,
-git_RNASeq_Example_img12.png,,,
-git_RNASeq_Example_img13.png,,,
-git_RNASeq_Example_img14.png,,,
-git_RNASeq_Example_img15.png,,,
-git_RNASeq_ReuseCode_img1.png,,,
-git_RNASeq_ReuseCode_img2.png,,,
-git_RNASeq_ReuseCode_img3.png,,,
-git_RNASeq_ReuseCode_img4.png,,,
-git_RNASeq_ReuseCode_img5.png,,,
-teaching_modular.drawio.svg,,,
+file,author,source,license
+cc-by.svg,Creative Commons,https://creativecommons.org/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+CEPLAS_Icon.jpeg,CEPLAS,https://ceplas.eu,
+DataPLANT_logo_square_bg_transparent.svg,DataPLANT,https://nfdi4plants.org/,
+DataSharing_Cloud_img6.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://nfdi4plants.org/nfdi4plants.knowledgebase/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+DataSharing_git_img1.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://nfdi4plants.org/nfdi4plants.knowledgebase/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_cloud_comparison.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img1.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img2.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img3.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img4.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img5.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img6.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img7.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img8.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img9.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img10.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img11.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img12.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img13.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img14.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_Example_img15.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_ReuseCode_img1.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_ReuseCode_img2.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_ReuseCode_img3.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_ReuseCode_img4.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+git_RNASeq_ReuseCode_img5.png,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+teaching_modular.drawio.svg,"Dominik Brilhaus, https://orcid.org/0000-0001-9021-3197",https://github.com/nfdi4plants/teaching-materials-concept/,CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
