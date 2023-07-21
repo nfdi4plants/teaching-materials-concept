@@ -1,5 +1,8 @@
 # Contributing
 
+On the one hand, this is an exemplary contribution guide from the development phase of a teaching materials repository in DataPLANT.
+On the other hand, it should be followed accordingly when contributing to this concept repo which show casts the concept as of March 2023.
+It also was one step to elaborate what is required in such a contribution guide and might be supportive for subsequent similar endeavours.
 ## Repository rules for collaborators
 
 ### Pull requests
@@ -8,28 +11,29 @@
 - Use branches or forks and make pull requests.  
 - Make sure that tasks / files modified of different contributors do not overlap to avoid merge conflicts.
 - Assign reviewer(s).  
-- Merge PR after positive review / approval.  
+- Merge PR after at least one positive review / approval.  
 - Delete local and remote branch after merging. (optional)
 - Minimize road blocks with "hanging" PRs.  
 - Create small "actionable" PRs.
 
 ### Issues
 
-- Short title (as short as possible).
+- Short title (as short as possible but meaningful).
 - Concise, non-cryptic description to your perception.
 - As small as possible, actionable, checkable
 - Single issues
   - Bundle single steps towards one outcome via task lists within one issue.
   - Bundle multiple ("independent") issues into a milestone.
 - You can use labels to categorize.
-- If a major contributor: self-assign ("pick from board") unless discussed in meeting / in person.
-- When somebody is already assigned only assign as well when discussed with the first assignee.  
+- If a major contributor: self-assign unless discussed in meeting / in person.
+- When somebody is already assigned, only assign as well when discussed with the first assignee.  
 
 ### Project Board
 
-- The project board used is [TeachingMaterial-ProjectBoard](https://github.com/orgs/nfdi4plants/projects/1)
-- Create issues in the project board.
-- Use milestones.
+- You might find it usable to use a project board.
+- Than, you can create issues in the project board.
+- Self-assign in the board.
+- Use milestones and labels.
 - See above.
 
 <br>
