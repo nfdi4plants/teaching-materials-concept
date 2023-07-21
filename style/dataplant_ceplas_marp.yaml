@@ -7,13 +7,13 @@ headingDivider:
   - 2
 footer: '
 <a href="https://nfdi4plants.org">
-  <img id="footer-img1" src="../images/DataPLANT_logo_square_bg_transparent.svg">
+  <img id="footer-img1" src="../images/_logos/DataPLANT/DataPLANT_logo_square_bg_transparent.svg">
 </a>
 <a href="https://ceplas.eu">
-  <img id="footer-img2" src="../images/CEPLAS_Icon.jpeg">
+  <img id="footer-img2" src="../images/_logos/CEPLAS/CEPLAS_Icon.jpeg">
 </a>
 <a href="https://creativecommons.org/licenses/by/4.0/">
-  <img id="footer-img3" src="../images/cc-by.svg">
+  <img id="footer-img3" src="../images/_logos/CreativeCommons/cc-by.svg">
 </a>'
 style: |
   footer {
