@@ -4,7 +4,7 @@
 
 # Origin / Use
 
-The repository provided [here](https://github.com/nfdi4plants/teaching-materials-concept) represents and presents the evolved concept as of March 2022.  
+The repository provided [here](https://github.com/nfdi4plants/teaching-materials-concept) represents and presents the evolved concept as of March 2023.  
 
 A [teaching materials section](https://github.com/nfdi4plants/nfdi4plants.knowledgebase/tree/main/src/docs/teaching-materials) based on this concept has already been integrated into the [DataPLANT Knowledge Base](https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html) [repsitory](https://github.com/nfdi4plants/nfdi4plants.knowledgebase). 
 
