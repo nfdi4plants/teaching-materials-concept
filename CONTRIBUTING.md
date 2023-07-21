@@ -16,13 +16,14 @@
 ### Issues
 
 - Short title (as short as possible).
-- Concise, non-cryptic description to your perception.
+- Concise, non-cryptic description.
 - As small as possible, actionable, checkable
 - Single issues
   - Bundle single steps towards one outcome via task lists within one issue.
   - Bundle multiple ("independent") issues into a milestone.
-- You can use labels to categorize.
-- If a major contributor, self-assign ("pick from board") unless discussed in meeting / in person.
+- Use labels to categorize.
+- Add the issue to the project board [TeachingMaterial-ProjectBoard](https://github.com/orgs/nfdi4plants/projects/1)
+- Self-assign ("pick from board") unless discussed in meeting / in person.
 - When somebody is already assigned only assign as well when discussed with the first assignee.  
 
 ### Project Board
@@ -52,6 +53,7 @@ style | css-theme(s) for marp slides
 
 - markdown slides
 - docs
+- videos
 - ...
 
 ### Unit types
@@ -60,9 +62,9 @@ type | description | typical layout(s)
 --- | --- | ---
 lesson | convey knowledge | slides
 exercise | educational, learn from (inter)active practice | slides, docs
-demo | demonstrate tool, showcase skill | slides, (videos, screencasts)
+demo | demonstrate tool, showcase skill | slides, (video, screencast)
 feedback | collect participant feedback | slides
-tutorial | (self-)guided tutorial | slides, docs, (videos, screencasts)
+tutorial | (self-)guided tutorial | slides, docs, (video, screencast)
 article | written out text (knowledge base) | docs
 handout | Literally a (few-pager) handout to give away| docs?
 checklist | Provides an overview of items to be considered for a specific purpose | docs, slides
@@ -101,12 +103,11 @@ Workshop | all (DataPLANT) users | Bring your own data (and build your ARC)
   - see tutorial on Marp slides
 - Distinguish "figures" from "slides"
   - figures can be used for multiple output formats (website/knowledge based, slides, tutorials, handouts)
-  - The directory `images` holds image (*.svg, *.png) files (not slides) or the original source file (.pptx, .drawio.svg) used to create the image file(s). 
+  - The folder `images` holds image (*.svg, *.png) files (not slides) or the original source file (.pptx, .drawio.svg) used to create the image file(s). 
 - If powerpoint is used to create a figure
   - the pptx stored in `images` is supposed to be a file of only a single slide or slide sequence (i.e. consecutive slides, where one image builds on the previous)
   - the name of the resulting figure file (e.g. "FAIRprinciples.png") MUST be aligned with the source file (e.g. "FAIRprinciples.pptx")
     - a consecutive number is suffixed to images from slide sequences (e.g. "FAIRprinciples_seq1.png", "FAIRprinciples_seq2.png")
-- optional, not implemented yet: A directory for other media types like `videos` could be added and used similar as the `images` directory.  
 
 <br>
 
@@ -239,8 +240,6 @@ Needs careful construction, especially when trying to compile across multiple fo
 2. A unit folder **MUST** containt a `unitpath` and a `unitconfig` file.
 3. The name of the compiled output is the same as the folder (e.g. a unit folder "dummy" will contain a "dummy.md" and a "dummy.pdf")
 4. Bricks and images **MAY** be organized into subfolders of `bricks` and `images`, but it's probably safer to avoid this.
-
-
 
 <br>
 
