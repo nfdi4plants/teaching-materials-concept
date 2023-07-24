@@ -1,5 +1,9 @@
 # Contributing
 
+This is an exemplary contribution guide from the development phase of a teaching material repository in DataPLANT prior to the status of this teaching materials concept repository as of March 2023.  
+
+It also contains a repository overview and some suggested file, figure and slide conventions which are helpful when exploring this concept repository.
+
 ## Repository rules for collaborators
 
 ### Pull requests
@@ -8,34 +12,38 @@
 - Use branches or forks and make pull requests.  
 - Make sure that tasks / files modified of different contributors do not overlap to avoid merge conflicts.
 - Assign reviewer(s).  
-- Merge PR after positive review / approval.  
+- Merge PR after at least one positive review / approval.  
 - Delete local and remote branch after merging. (optional)
 - Minimize road blocks with "hanging" PRs.  
 - Create small "actionable" PRs.
 
 ### Issues
 
-- Short title (as short as possible).
-- Concise, non-cryptic description.
+- Short title (as short as possible but meaningful).
+- Concise, non-cryptic description to your perception.
 - As small as possible, actionable, checkable
 - Single issues
   - Bundle single steps towards one outcome via task lists within one issue.
   - Bundle multiple ("independent") issues into a milestone.
-- Use labels to categorize.
-- Add the issue to the project board [TeachingMaterial-ProjectBoard](https://github.com/orgs/nfdi4plants/projects/1)
-- Self-assign ("pick from board") unless discussed in meeting / in person.
-- When somebody is already assigned only assign as well when discussed with the first assignee.  
+- You can use labels to categorize.
+- If a major contributor: self-assign unless discussed in meeting / in person.
+- When somebody is already assigned, only assign as well when discussed with the first assignee.  
 
 ### Project Board
 
-- The project board used is [TeachingMaterial-ProjectBoard](https://github.com/orgs/nfdi4plants/projects/1)
-- Create issues in the project board.
-- Use milestones.
-- See above.
+You might find it supportive to use a project board.  
+
+There, you can  
+- Create issues.  
+- Self-assign in the board.  
+- Use milestones and labels.  
+- See above.  
 
 <br>
 
-## Repository Overview
+## Repository Overview  
+
+<br>
 
 folder | content
 --- | ---
@@ -44,7 +52,7 @@ bricks | individual bricks that can be combined into units [see brick-types](#br
 units | units that can be combined into disseminations [see unit-types](#unit-types)
 disseminations | disseminations that can be used for an event [see dissemination-types](#dissemination-types)
 images | images
-style | css-theme(s) for marp slides
+style | css-theme(s) for Marp slides
 
 <br>
 
@@ -53,7 +61,6 @@ style | css-theme(s) for marp slides
 
 - markdown slides
 - docs
-- videos
 - ...
 
 ### Unit types
@@ -62,9 +69,9 @@ type | description | typical layout(s)
 --- | --- | ---
 lesson | convey knowledge | slides
 exercise | educational, learn from (inter)active practice | slides, docs
-demo | demonstrate tool, showcase skill | slides, (video, screencast)
+demo | demonstrate tool, showcase skill | slides, (videos, screencasts)
 feedback | collect participant feedback | slides
-tutorial | (self-)guided tutorial | slides, docs, (video, screencast)
+tutorial | (self-)guided tutorial | slides, docs, (videos, screencasts)
 article | written out text (knowledge base) | docs
 handout | Literally a (few-pager) handout to give away| docs?
 checklist | Provides an overview of items to be considered for a specific purpose | docs, slides
@@ -73,7 +80,7 @@ checklist | Provides an overview of items to be considered for a specific purpos
 
 Dissemination type | Target audience | Example
 ---------|----------|---------
-One-on-one / consulting | PIs, CIs | phone/zoom call during proposal, funding, acquiring / associating a (new/existing) SFB
+One-on-one / consulting | PIs, CIs, lab member responsible for data management | call (phone/zoom ) during proposals or other funding / associating a (new/existing) group / CRC / preparing a lab consulting
 Train-the-trainer | Data Stewards | Onboarding of new DataPLANT data stewards
 Training (practical) | all (DataPLANT) users | Training on a (specific) DataPLANT tool(s)
 Teaching (theory + practical) | Students/PhD/PostDoc | PhD course on good data management practice
@@ -95,19 +102,19 @@ Workshop | all (DataPLANT) users | Bring your own data (and build your ARC)
 
 - Small packages
   - The smaller ~ the more re-usable
-  - The smaller ~ the easier to git collaborate without merge conflicts
+  - The smaller ~ the easier to collaborate using Git without merge conflicts
 - Metadata header (see below)
 - Markdown (slides)
   - YAML header for metadata (context)
   - formulated text can easily be converted into slide notes
-  - see tutorial on Marp slides
 - Distinguish "figures" from "slides"
   - figures can be used for multiple output formats (website/knowledge based, slides, tutorials, handouts)
-  - The folder `images` holds image (*.svg, *.png) files (not slides) or the original source file (.pptx, .drawio.svg) used to create the image file(s). 
+  - The directory `images` holds image (*.svg, *.png) files (not slides) and/or the original source file (.pptx, .drawio.svg) used to create the image file(s). 
 - If powerpoint is used to create a figure
   - the pptx stored in `images` is supposed to be a file of only a single slide or slide sequence (i.e. consecutive slides, where one image builds on the previous)
   - the name of the resulting figure file (e.g. "FAIRprinciples.png") MUST be aligned with the source file (e.g. "FAIRprinciples.pptx")
     - a consecutive number is suffixed to images from slide sequences (e.g. "FAIRprinciples_seq1.png", "FAIRprinciples_seq2.png")
+- optional, not implemented yet: A directory for other media types like `videos` could be added and used similar as the `images` directory.  
 
 <br>
 
@@ -122,11 +129,12 @@ Workshop | all (DataPLANT) users | Bring your own data (and build your ARC)
 - image directory: reusable, named, single image files
 
 - copyright, licenses
-  - list links to all external figures in images/README.md
+  - list file name, authors (with ORCID), source (link) and license for all figures in `resource_lists/_images.csv``
 
 ### Tools
 
 - powerpoint
+- Inkscape
 - draw.io (e.g. VS code extension)
 
 ### Output formats
@@ -140,12 +148,11 @@ Workshop | all (DataPLANT) users | Bring your own data (and build your ARC)
 
 ## Slide Design
 
-Currently (Feb 23), slides in this repo are built from markdown files using the [marpit](https://marpit.marp.app/) framework. For technical guide see [tutorial_003_IntroMarpSlides.md](./units/to_be_split_into_bricks/tutorial_003_IntroMarpSlides.md).
+Currently (March 2023), slides in this repo are built from markdown files using the [marpit](https://marpit.marp.app/) framework.
 
-There are some technical flavors that let MARP interpret the slide design differently.
-To avoid incompatibilities when combining multiple slide decks into one:
+There are some technical flavors that let Marp interpret the slide design differently.  
+To avoid incompatibilities when combining multiple slide decks into one, add the following global directives to your YAML header:  
 
-1. add the following to your YAML header
 ```yaml
 ---
 marp: true
@@ -155,13 +162,13 @@ headingDivider:
   - 2
 ---
 ```
-2. This makes sure that slides are "cut" at level 1 (h1, `#`) and level 2 (h2, `##`) headers. Note, also a line with '---' below the yaml header will break slides.
-3. Use only "scoped" (CSS) directives
-   1. Via the underscore mechanism, e.g. `<!-- _paginate: false -->`
-   2. Via html tag 
-       ```html
-       <style scoped>' (instead) of <style>. Otherwise the adapted style applies to all slides (of a combined slide deck).
-       ```
+
+1. This makes sure that e.g. all slides are "cut" at level 1 (h1, `#`) and level 2 (h2, `##`) headers.  
+   Note, also a line with '---' below the yaml header will break slides.  
+2. If you want to apply a directive only to a single page (Spot directives),  
+   use the underscore mechanism, e.g. `<!-- _paginate: false -->`  
+   Otherwise the adapted style applies to all slides (of a combined slide deck).  
+3. In contrast `<!-- paginate: false -->` is a local directive which will be followed from the slide onwards on which it appears first but can be escaped for a slide by a spot directive like `<!-- _paginate: skip -->`.  
 
 <br>
 
@@ -170,11 +177,11 @@ headingDivider:
 - __bricks__, __units__ and __disseminations__ are **markdown files** (file extension: .md)
   - they can be interpreted and rendered *as-is* by e.g. VS Code (extensions), GitHub, marp-cli, etc
   - they contain a suitable yaml header  
-- unitpaths and disseminationpaths
-  - they point to the relative paths of bricks or units in the desired order
-  - they are interpreted by a script (currently: compile_marp_slides.sh), which compiles the listed bricks and units into a unit or dissemination
-  - they MAY contain a suitable yaml header
-  - they MAY contain empty lines and comments (lines starting with `#`)
+- __DidacticPath.md__
+  - points to the paths of bricks or units in the desired order
+  - is interpreted by a script, which compiles the listed bricks and units into a unit or dissemination
+  - MAY contain a suitable yaml header
+  - MAY contain empty lines and comments (lines starting with `#`)
 
 ### Training material metadata header
 
@@ -182,7 +189,8 @@ headingDivider:
 - Inspired by <https://doi.org/10.1371/journal.pcbi.1007854.t002>
 - Why YAML (or YML)?
   - hidden from rendered markdown
-  - machine-readable (think database, keywords, etc.)
+  - machine-readable (databases, keywords, etc.)  
+
 #### YAML headers  
 
 - __brick level__ metadata  
@@ -234,13 +242,14 @@ Note, if a dissemination is built only from bricks, the dissemination metadata s
 
 Needs careful construction, especially when trying to compile across multiple folder (e.g. submodules).
 
-1. Any link within a "source" file (brick, style, unitconfig, unitpath, etc.) **MUST** be a correct relative path.
+1. Any link within a "source" file (brick, style, etc.) **MUST** be a correct relative path.
     > Example
     > If a `brick.md` references an image at `../images/image.png`, the image **MUST** exist at `../images/image.png` relative to the `brick.md`
-2. A unit folder **MUST** containt a `unitpath` and a `unitconfig` file.
-3. The name of the compiled output is the same as the folder (e.g. a unit folder "dummy" will contain a "dummy.md" and a "dummy.pdf")
-4. Bricks and images **MAY** be organized into subfolders of `bricks` and `images`, but it's probably safer to avoid this.
+2. A unit folder **MUST** contain a `DidacticPath.md` file.
+3. The style directory **MUST** contain a style-css and style-yaml file (see examples).
+4. The name of the compiled output is the same as the folder (e.g. a unit folder "dummy" will contain a "dummy.md" and a "dummy.html")
+5. Bricks and images **MAY** be organized into subfolders of `bricks` and `images`, but it's probably safer to avoid this. So far, we only placed `_logos` and `_qr-codes` in subfolders which are unique to the respective user group which needs to be considered when referencing.
+
+
 
 <br>
-
-
