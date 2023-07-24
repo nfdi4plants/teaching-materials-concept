@@ -10,6 +10,8 @@ A [teaching materials section](https://github.com/nfdi4plants/nfdi4plants.knowle
 
 The concept in [this repository](https://github.com/nfdi4plants/teaching-materials-concept) has been summarized as a contribution to [NFDI CoRDI](https://www.nfdi.de/cordi-2023/?lang=en).
 
+For more details, please see also the [submitted extended abstract to CoRDI2023](./cordi2023_files/extended_abstract/2023-04-25_One-source-to-teach-them-all.pdf) and the [exemplary contribution guide](./CONTRIBUTING.md) which also holds valuable information on the repository overview, suggested file, figure and slide conventions as well as more context on bricks, units, dissemination and yaml headers.
+
 <br/>
 
 ***Major contributors that developed the teaching-material repository are (in alphabetic order):***
