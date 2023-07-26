@@ -1,8 +1,15 @@
 # Teaching materials  - Concept
 
-![](images/teaching_modular.drawio.png)
+## A) Modular concept for the DataPLANT OER
 
-# Origin / Use
+![](images/teaching_concept-A.drawio.svg)
+
+## B) Example “version control using Git”
+
+![](images/teaching_concept-B.drawio.svg)
+
+
+## Origin / Use
 
 The repository provided [here](https://github.com/nfdi4plants/teaching-materials-concept) represents and presents the evolved concept as of March 2023.  
 
