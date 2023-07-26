@@ -11,9 +11,9 @@ license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
 # Scenario 3: New project, same type of data and analysis <!-- fit -->
 
-![w:900](../images/git_RNASeq_Example_img14.png)
+![w:900](../images/Git_RNASeq_Example_img14.png)
 
 # Scenario 3: New project, same type of data and analysis <!-- fit -->
 
-![w:900](../images/git_RNASeq_Example_img15.png)
+![w:900](../images/Git_RNASeq_Example_img15.png)
 

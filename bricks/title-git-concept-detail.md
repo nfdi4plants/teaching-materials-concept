@@ -9,5 +9,5 @@ author_github: brilator
 license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 ---
 
-# Concept of Git and git-based platforms
+# Concept of Git and Git-based platforms
 

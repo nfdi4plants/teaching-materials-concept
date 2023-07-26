@@ -9,9 +9,9 @@ author_github: brilator
 license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 ---
 
-# Git and git platforms
+# Git and Git platforms
 
-![bg right:50% w:800](../images/DataSharing_git_img1.png)
+![bg right:50% w:800](../images/DataSharing_Git_img1.png)
 
 <span style="color:#F9CD69">∼ Documents</span>
 <span style="color:#B4CE82">✓ Small data</span>  

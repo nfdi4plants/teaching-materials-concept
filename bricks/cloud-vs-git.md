@@ -11,4 +11,4 @@ license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
 # Cloud vs. Git
 
-![w:1000](../images/git_cloud_comparison.png)
+![w:1000](../images/Git_cloud_comparison.png)

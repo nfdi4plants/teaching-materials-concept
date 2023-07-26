@@ -11,4 +11,4 @@ license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
 # Revert to snapshot
 
-![w:900](../images/git_RNASeq_Example_img13.png)
+![w:900](../images/Git_RNASeq_Example_img13.png)

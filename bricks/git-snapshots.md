@@ -12,9 +12,9 @@ license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 # Take snapshots of your code work…
 (... as long as it works)
 
-![w:900](../images/git_RNASeq_Example_img6.png)
+![w:900](../images/Git_RNASeq_Example_img6.png)
 
 # Take snapshots of your code work…
 (... as long as it works)
 
-![w:900](../images/git_RNASeq_Example_img7.png)
+![w:900](../images/Git_RNASeq_Example_img7.png)
