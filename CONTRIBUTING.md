@@ -95,7 +95,7 @@ Workshop | all (DataPLANT) users | Bring your own data (and build your ARC)
 
 - Small packages
   - The smaller ~ the more re-usable
-  - The smaller ~ the easier to git collaborate without merge conflicts
+  - The smaller ~ the easier to Git collaborate without merge conflicts
 - Metadata header (see below)
 - Markdown (slides)
   - YAML header for metadata (context)
