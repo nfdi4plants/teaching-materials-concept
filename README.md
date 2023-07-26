@@ -1,6 +1,6 @@
 # Teaching materials  - Concept
 
-![](images/teaching_modular.drawio.png)
+![](images/teaching_modular_corr.drawio.png)
 
 # Origin / Use
 
