@@ -1,27 +1,62 @@
 ---
-# Slide-related yaml
+# from style yaml - begin
 marp: true
 theme: dataplant_marp-theme
 paginate: true
 headingDivider: 
   - 1
   - 2
-footer: '<a href="https://nfdi4plants.org"> <img id="footer-img1" src="../../images/DataPLANT_logo_square_bg_transparent.svg"> </a> <a href="https://ceplas.eu"><img id="footer-img2" src="../../images/CEPLAS_Icon.jpeg"></a><a href="https://creativecommons.org/licenses/by/4.0/"><img id="footer-img3" src="../../images/cc-by.svg"></a>'
-style: 'footer {height: 30px; padding: 10px; bottom: 00px;} #footer-img1 {height: 30px; padding-left: 0px;} #footer-img2 {height: 30px; padding-left: 20px; opacity: 0.5;} #footer-img3 {height: 20px;padding-left: 20px;opacity: 0.5;}'
-# Training yaml
-layout: slides
-title: "git intro basic"
-license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
-duration_minutes: 5
-date: 2023-03-16
-status: draft
+footer: '
+<a href="https://nfdi4plants.org">
+  <img id="footer-img1" src="../../images/_logos/DataPLANT/DataPLANT_logo_square_bg_transparent.svg">
+</a>
+<a href="https://ceplas.eu">
+  <img id="footer-img2" src="../../images/_logos/CEPLAS/CEPLAS_Icon.jpeg">
+</a>
+<a href="https://creativecommons.org/licenses/by/4.0/">
+  <img id="footer-img3" src="../../images/_logos/CreativeCommons/cc-by.svg">
+</a>'
+style: |
+  footer {
+    height: 30px;
+    padding: 10px;
+    bottom: 00px;
+  }
+  #footer-img1 {
+      height: 30px;
+      padding-left: 0px;
+  }
+  #footer-img2 {
+      height: 30px;
+      padding-left: 20px;
+      opacity: 0.5;
+  }
+  #footer-img3 {
+      height: 20px;
+      padding-left: 20px;
+      opacity: 0.5;
+  }
+# from style yaml - end
+author: ['Dominik Brilhaus']
+author_orcid: ['https://orcid.org/0000-0001-9021-3197']
+author_github: ['brilator']
+license: ['[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)']
+title: ['Git concept basic']
+duration_minutes: ['5']
+date: ['2023-03-16']
+teaching_mode: ['inhale-listen']
+status: ['ready']
+headingDivider: ['1']
+learning_outcomes: ['version control', 'concept of Git']
 ---
+<!-- headingDivider: 1 -->
 
 # Git Basic Concept
 
+
 <!-- ################# -->
-<!-- Source to slide(s) -->
-<!-- ../../bricks/title-git-concept-basic.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/title-Git-concept-basic.md -->
 <!-- ################# -->
 
 
@@ -37,15 +72,16 @@ status: draft
 <span style="color:#c21f3a">X  Data analytical projects</span>  
 <span style="color:#c21f3a">X  Big (“raw”) data</span>  
 
+
 <!-- ################# -->
-<!-- Source to slide(s) -->
-<!-- ../../bricks/cloud-services.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/cloud-services.md -->
 <!-- ################# -->
 
 
-# Git and git platforms
+# Git and Git platforms
 
-![bg right:50% w:800](../../images/DataSharing_git_img1.png)
+![bg right:50% w:800](../../images/DataSharing_Git_img1.png)
 
 <span style="color:#F9CD69">∼ Documents</span>
 <span style="color:#B4CE82">✓ Small data</span>  
@@ -56,22 +92,24 @@ status: draft
 <span style="color:#F9CD69">∼ Big (“raw”) data</span>
 
 
+
 <!-- ################# -->
-<!-- Source to slide(s) -->
-<!-- ../../bricks/git-and-git-platforms.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/Git-and-Git-platforms.md -->
 <!-- ################# -->
 
 
-# Why git? ≈> Why code?
+# Why Git? ≈> Why code?
 
 - Save time
 - Avoid doing repetitive tasks “by hand”
 - Reuse scripts, analyses, pipelines
 - Reproduce results
 
+
 <!-- ################# -->
-<!-- Source to slide(s) -->
-<!-- ../../bricks/git-why.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/Git-why.md -->
 <!-- ################# -->
 
 
@@ -86,9 +124,10 @@ status: draft
   - **Why** was it changed?
 
 
+
 <!-- ################# -->
-<!-- Source to slide(s) -->
-<!-- ../../bricks/git-summary.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/Git-summary.md -->
 <!-- ################# -->
 
 
@@ -102,9 +141,10 @@ status: draft
 - Time machine to go back to older versions
 
 
+
 <!-- ################# -->
-<!-- Source to slide(s) -->
-<!-- ../../bricks/GitHub-GitLab.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/GitHub-GitLab.md -->
 <!-- ################# -->
 
 
@@ -117,18 +157,20 @@ Simplifies concurrent work & merging changes
 - They can upload their changes and merge them with the main project
 
 
+
 <!-- ################# -->
-<!-- Source to slide(s) -->
-<!-- ../../bricks/team-projects.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/team-projects.md -->
 <!-- ################# -->
 
 
 # Cloud vs. Git
 
-![w:1000](../../images/git_cloud_comparison.png)
+![w:1000](../../images/Git_cloud_comparison.png)
+
 
 <!-- ################# -->
-<!-- Source to slide(s) -->
-<!-- ../../bricks/cloud-vs-git.md -->
+<!-- Source to slide(s) above -->
+<!-- bricks/cloud-vs-Git.md -->
 <!-- ################# -->
 
