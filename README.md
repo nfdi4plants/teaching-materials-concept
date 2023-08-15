@@ -8,7 +8,7 @@
 
 ![](images/teaching_concept-B.drawio.png)
 
-# Origin / Use
+## Origin / Use
 
 The repository provided [here](https://github.com/nfdi4plants/teaching-materials-concept) represents and presents the evolved concept as of March 2023.  
 
