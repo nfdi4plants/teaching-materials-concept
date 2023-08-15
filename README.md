@@ -1,6 +1,12 @@
 # Teaching materials  - Concept
 
-![](images/teaching_modular_corr.drawio.png)
+## A) Modular concept for the DataPLANT OER
+
+![](images/teaching_concept-A.drawio.png)
+
+## B) Example “version control using Git”
+
+![](images/teaching_concept-B.drawio.png)
 
 # Origin / Use
 
@@ -9,6 +15,8 @@ The repository provided [here](https://github.com/nfdi4plants/teaching-materials
 A [teaching materials section](https://github.com/nfdi4plants/nfdi4plants.knowledgebase/tree/main/src/docs/teaching-materials) based on this concept has already been integrated into the [DataPLANT Knowledge Base](https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html) [repsitory](https://github.com/nfdi4plants/nfdi4plants.knowledgebase). 
 
 The concept in [this repository](https://github.com/nfdi4plants/teaching-materials-concept) has been summarized as a contribution to [NFDI CoRDI](https://www.nfdi.de/cordi-2023/?lang=en).
+
+For more details, please see also the [submitted extended abstract to CoRDI2023](./cordi2023_files/extended_abstract/2023-04-25_One-source-to-teach-them-all.pdf) and the [exemplary contribution guide](./CONTRIBUTING.md) which also holds valuable information on the repository overview, suggested file, figure and slide conventions as well as more context on bricks, units, dissemination and yaml headers.
 
 <br/>
 
