@@ -11,21 +11,21 @@ license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
 # A simple example: RNASeq project
 
-![w:900](../images/git_RNASeq_Example_img1.png)
+![w:900](../images/Git_RNASeq_Example_img1.png)
 
 # A simple example: RNASeq project
 
-![w:900](../images/git_RNASeq_Example_img2.png)
+![w:900](../images/Git_RNASeq_Example_img2.png)
 
 # A simple example: RNASeq project
 
-![w:900](../images/git_RNASeq_Example_img3.png)
+![w:900](../images/Git_RNASeq_Example_img3.png)
 
 # A simple example: RNASeq project
 
-![w:900](../images/git_RNASeq_Example_img4.png)
+![w:900](../images/Git_RNASeq_Example_img4.png)
 
 # A simple example: RNASeq project
 
-![w:900](../images/git_RNASeq_Example_img5.png)
+![w:900](../images/Git_RNASeq_Example_img5.png)
 

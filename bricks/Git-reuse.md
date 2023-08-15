@@ -11,17 +11,17 @@ license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
 # Re-use code
 
-![w:900](../images/git_RNASeq_ReuseCode_img1.png)
+![w:900](../images/Git_RNASeq_ReuseCode_img1.png)
 
 # Re-use code
 
-![w:900](../images/git_RNASeq_ReuseCode_img2.png)
+![w:900](../images/Git_RNASeq_ReuseCode_img2.png)
 
 # Re-use code – People have done this
 
-![w:900](../images/git_RNASeq_ReuseCode_img3.png)
+![w:900](../images/Git_RNASeq_ReuseCode_img3.png)
 
 # Re-use code – People have done this
 
-![w:900](../images/git_RNASeq_ReuseCode_img4.png)
+![w:900](../images/Git_RNASeq_ReuseCode_img4.png)
 

@@ -9,7 +9,7 @@ author_github: brilator
 license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 ---
 
-# Why git? ≈> Why code?
+# Why Git? ≈> Why code?
 
 - Save time
 - Avoid doing repetitive tasks “by hand”

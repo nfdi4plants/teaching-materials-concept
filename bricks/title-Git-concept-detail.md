@@ -9,6 +9,5 @@ author_github: brilator
 license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 ---
 
-# Cloud vs. Git
+# Concept of Git and Git-based platforms
 
-![w:1000](../images/git_cloud_comparison.png)

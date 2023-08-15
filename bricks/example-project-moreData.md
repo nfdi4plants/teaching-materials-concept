@@ -11,13 +11,13 @@ license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
 # Scenario 1: More data
 
-![w:900](../images/git_RNASeq_Example_img8.png)
+![w:900](../images/Git_RNASeq_Example_img8.png)
 
 # Scenario 1: More data
 
-![w:900](../images/git_RNASeq_Example_img9.png)
+![w:900](../images/Git_RNASeq_Example_img9.png)
 
 # Scenario 1: More data
 
-![w:900](../images/git_RNASeq_Example_img10.png)
+![w:900](../images/Git_RNASeq_Example_img10.png)
 

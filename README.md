@@ -2,12 +2,11 @@
 
 ## A) Modular concept for the DataPLANT OER
 
-![](images/teaching_concept-A.drawio.svg)
+![](images/teaching_concept-A.drawio.png)
 
 ## B) Example “version control using Git”
 
-![](images/teaching_concept-B.drawio.svg)
-
+![](images/teaching_concept-B.drawio.png)
 
 ## Origin / Use
 

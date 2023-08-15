@@ -9,7 +9,7 @@ author_github: brilator
 license: "[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 ---
 
-# Let git track changes and keep things clean
+# Re-use code – Link and contribute
 
-![w:900](../images/git_RNASeq_Example_img11.png)
+![w:900](../images/Git_RNASeq_ReuseCode_img5.png)
 
