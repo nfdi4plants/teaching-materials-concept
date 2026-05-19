@@ -1,3 +1,8 @@
+> ℹ️ This repository is now archived. The concept has been developed further elsewhere.
+> See e.g.
+>   - https://github.com/EduBricksHub
+>   - Brilhaus, D., Haugwitz, J.-M., Helbig, K., Uebachs, M., Schmale Rodrigues, C., & Mühlhaus, T. (2025). EduBricks – Ein Konzept für modulares und skalierbares Lehrmaterial. Zenodo. https://doi.org/10.5281/zenodo.17850103
+
 # Teaching materials  - Concept
 
 ## A) Modular concept for the DataPLANT OER
